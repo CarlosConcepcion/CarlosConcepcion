@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagen.png" width="800">
+  <img src="e905b4dca86f352323fb34d4dbd036d5.jpg" width="700">
 </p>
 
 <h1 align="center">⚡ HADARR SH SYSTEM ⚡</h1>
