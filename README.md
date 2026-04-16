@@ -1,77 +1,73 @@
+<p align="center">
+  <img src="imagen.png" width="800">
+</p>
+
 <h1 align="center">⚡ HADARR SH SYSTEM ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+System+Activated;Pentester+in+Progress;Leveling+Up+Skills...&center=true&width=500&height=50&color=9D4EDD">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&width=500&lines=Initializing+System...;Loading+Cyber+Skills...;Access+Granted">
 </p>
 
 ---
 
 ## 🧠 SYSTEM PROFILE
 
+```bash
+> USER: Carlos Concepción
+> CLASS: Cybersecurity Student
+> ROLE: Junior Pentester
+> STATUS: Leveling Up...
+> LOCATION: Panamá
+```
+
+---
+
+## 🔥 SKILL SYSTEM
+
 ```diff
-+ Name: Carlos Concepción
-+ Class: Cybersecurity Student
-+ Role: Junior Pentester
-+ Status: Leveling Up...
++ Web Security        ███████░ 70%
++ Networking          ████████░ 80%
++ Threat Detection    ██████░░ 60%
++ Python              ██████░░ 60%
 ```
 
 ---
 
-## 📊 SKILL SYSTEM
+## ⚔️ ACTIVE MISSIONS
 
-```text
-Networking        ███████░░░ 70%
-Linux             ████████░░ 80%
-Web Hacking       █████░░░░░ 50%
-Python            ██████░░░░ 60%
-SIEM / Blue Team  ███░░░░░░░ 30%
+* 🧪 Pentesting Labs (TryHackMe)
+* ⚔️ Network Scanning & Enumeration
+* 🛡️ Vulnerability Analysis
+* 💻 Building Cybersecurity Tools
+
+---
+
+## 🧬 EQUIPPED TOOLS
+
+```bash
+> Nmap
+> Burp Suite
+> Wireshark
+> Python
+> Linux
+> GitHub
 ```
 
 ---
 
-## 🛠️ EQUIPPED TOOLS
-
-<p>
-  <img src="https://img.shields.io/badge/Nmap-Scanning-9D4EDD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BurpSuite-Web-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-Exploit-6A0DAD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-Network-4B0082?style=for-the-badge"/>
-</p>
-
----
-
-## 📈 SYSTEM STATS
+## 📊 SYSTEM STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosConcepcion&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosConcepcion&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosConcepcion&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d12">
 </p>
 
 ---
 
-## 🧩 ACTIVE MISSIONS
+## ☠️ CONTACT
 
-* 🔐 Exploiting DVWA (File Upload, SQLi)
-* 🌐 Web Pentesting Practice
-* ⚙️ Building Security Scripts
-* 🛡️ Learning SIEM (Zabbix / Splunk)
-
----
-
-## 🧠 EXPERIENCE LOG
-
-```text
-[✔] Nmap Scanning
-[✔] Burp Suite Repeater
-[✔] Basic Exploitation
-[ ] Privilege Escalation
-[ ] Advanced Web Attacks
+```bash
+> Email: carlosconcepcionx@gmail.com
+> Status: Available for opportunities
 ```
-
----
-
-## ⚡ SYSTEM MESSAGE
-
-> “No soy experto todavía, pero cada día subo de nivel.”
 
 ---
