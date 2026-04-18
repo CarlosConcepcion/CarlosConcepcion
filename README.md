@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="shakns.jpg" width="900">
+  <img src="kkkk.jpg" width="900">
 </p>
 
 <h1 align="center">⚡ HADARR SH SYSTEM ⚡</h1>
